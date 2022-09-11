@@ -2,7 +2,7 @@
 Summaries of Books, Papers, Articles & Talks
 
 ### Books
-
+* [The Subtle Art of Not Giving a Fuck: A Counterintuitive Approach to Living a Good Life](books/the-subtle-art-of-not-giving-a-fuck.md) by **Mark Manson**, 2016.
 * [Ikigai: The Japanese Secret to a Long and Happy Life](books/link.md) by **Hector Garcia** and **Francesc Miralles**, 2016.  
 * [Deep Work: Rules for Focused Success in a Distracted World](books/link.md) by **Cal Newport**, 2016.
 * [Raising Men: Lessons Navy SEALs Learned from Their Training and Taught to Their Sons](books/link.md) by **Eric Davis**, **Dina Santorelli**, 2016.
